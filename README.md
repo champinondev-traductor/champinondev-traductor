@@ -21,7 +21,7 @@
   </a>
    
   <a href="https://cachyos.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/CachyOS.png" alt="cachyos" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/cachyos-linux.webp" alt="cachyos" width="40" height="40"/>
   </a>
    
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
