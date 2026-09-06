@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champinondev-traductor&label=Profile%20views&color=0e75b6&style=flat" alt="champinondev-traductor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=champinondev-traductor" alt="champinondev-traductor" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=champinondev-traductor&margin-w=15" alt="Trophies" /> </p>
 
 - 🔭 I’m currently working on [Omikuji Launcher](https://github.com/omikuji-launcher/omikuji/)
 
@@ -21,7 +21,7 @@
   </a>
    
   <a href="https://cachyos.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="cachyos" width="40" height="40"/>
+    <img src="https://github.com/CachyOS.png" alt="cachyos" width="40" height="40"/>
   </a>
    
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
