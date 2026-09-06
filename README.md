@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champinondev-traductor&label=Profile%20views&color=0e75b6&style=flat" alt="champinondev-traductor" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=champinondev-traductor&margin-w=15" alt="Trophies" /> </p>
-
 - 🔭 I’m currently working on [Omikuji Launcher](https://github.com/omikuji-launcher/omikuji/)
 
 - 🌱 I’m currently learning **Python, C, HTML**
