@@ -1,6 +1,6 @@
 <h3 align="center">A passionate translator and early coder!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=champinondev-traductor&label=Profile%20views&color=0e75b6&style=flat" alt="champinondev-traductor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=champinondev-traductor&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working on [Omikuji Launcher](https://github.com/omikuji-launcher/omikuji/)
 
@@ -27,6 +27,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=champinondev-traductor&show_icons=true&locale=en&layout=compact" alt="champinondev-traductor" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=champinondev-traductor&show_icons=true&locale=en&layout=compact&hide_title=true" alt="Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=champinondev-traductor" alt="champinondev-traductor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=champinondev-traductor&hide_title=true" alt="GitHub Streak" /></p>
